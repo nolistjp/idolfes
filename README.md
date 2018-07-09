@@ -19,7 +19,7 @@
     - http://idolyokocho.com/summerfes2015/
     - http://idolyokocho.com/summerfes2014/
     - http://idolyokocho.com/2013summerfes/idol.html
-    - https://ameblo.jp/idolyokocho/entry-11277801296.html
+    - http://web.archive.org/web/20120701004941/http://idolyokocho.com/2012summerfes
 - @JAM EXPO
     - https://www.at-jam.jp/series/expo2018/lineup
     - https://www.at-jam.jp/series/expo2017/lineup
